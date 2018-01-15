@@ -80,8 +80,8 @@ a:after {
 
 .header {
   background: #1CBCAD;
-  background: url(../images/af_may.jpg) no-repeat center top;
-  filter: grayscale(100%);
+  background: url(../images/chicago.jpeg) no-repeat center top;
+  filter: grayscale(80%);
   padding-top:70px;
   text-align:center;
   background-attachment: relative;
@@ -102,7 +102,7 @@ a:after {
 
 .header h1 {
   font-size: 50px;
-  color: black;
+  color: white;
   text-align: left;
   font-weight: lighter;
 }
@@ -128,6 +128,11 @@ a:after {
 
 .about h5, p {
   color: white;
+}
+
+.image ed{
+  width: 20px;
+  height: 20px;
 }
 
 .about k {
@@ -170,7 +175,7 @@ a:after {
 .header i {
   padding-right: 8px;
   font-size: 25px;
-  color: black;
+  color: white;
   align-items: left;
 }
 
